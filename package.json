@@ -1,0 +1,20 @@
+{
+  "name": "test-for-github-package-registry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wssgcg1213/test-for-github-package-registry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wssgcg1213/test-for-github-package-registry/issues"
+  },
+  "homepage": "https://github.com/wssgcg1213/test-for-github-package-registry#readme"
+}
